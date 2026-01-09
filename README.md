@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Third-year B.Tech Computer Engineering student with a strong foundation in Data Analytics, Data Science, and<br>Machine Learning and ML ops. Proficient in Python, Advanced SQL, and Data Visualization tools, with hands-on<br>experience in building predictive models and analyzing datasets. Eager to apply analytical skills to real-world<br>challenges and contribute to innovative projects.
+Third-year B.Tech Computer Engineering student with a strong foundation in Data Analytics, Data Science, and<br>Machine Learning and ML ops. Proficient in Python, Advanced SQL, and Data Visualization tools, with hands-on<br>experience in building predictive models and analyzing datasets. Eager to apply analytical skills to real world<br>challenges and contribute to innovative projects.
 
 
 ## 🌐 Socials:
