@@ -41,15 +41,12 @@ analytical skills to real-world challenges and contribute to innovative projects
 </p>
 
 <h2>📊 GitHub Stats</h2>
-
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitpatil1304&theme=tokyonight&include_all_commits=true&count_private=true">
 </p> -->
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Rohitpatil1304&theme=tokyonight">
 </p>
-
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitpatil1304&theme=tokyonight&layout=compact">
 </p> -->
