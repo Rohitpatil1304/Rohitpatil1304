@@ -1,13 +1,14 @@
-<h2 align="center">Hi there 👋</h2>
+<h1>Hi there 👋</h1>
 
-<h1 align="center">💫 About Me</h1>
-
+<h2>💫 About Me</h2>
+<p align="justify">
 Third-year B.Tech Computer Engineering student with a strong foundation in Data Analytics, Data Science, and  
 Machine Learning and ML Ops. Proficient in Python, Advanced SQL, and Data Visualization tools, with hands-on  
 experience in building predictive models and analyzing datasets. Eager to apply analytical skills to real-world  
 challenges and contribute to innovative projects.
+</p>
 
-<h2 align="center">🌐 Socials</h2>
+<h2>🌐 Socials</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-patil-62823a277/">
@@ -18,7 +19,7 @@ challenges and contribute to innovative projects.
   </a>
 </p>
 
-<h1 align="center">💻 Tech Stack</h1>
+<h2>💻 Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -36,7 +37,7 @@ challenges and contribute to innovative projects.
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rohitpatil1304&theme=tokyonight&include_all_commits=true&count_private=true">
